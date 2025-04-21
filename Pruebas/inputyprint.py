@@ -1,0 +1,5 @@
+print("Hola, ¿Cómo estás? Hoy aprenderemos input y print")
+nombre = input ("por favor, escribe tu nombre:")
+print("¡Mucho gusto! "+ nombre +"")
+edad = input("¿Cuántos años tienes?")
+print("¡Wow!, "+ edad +" años, estas listo para programar")
